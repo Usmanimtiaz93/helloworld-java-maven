@@ -1,1 +1,5 @@
+We are doing testing of the poll scm concept.
+
+With this jenkins will do a checkout from GitHub automatically
+
 testJenkins.txt
