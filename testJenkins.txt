@@ -1,5 +1,13 @@
+Doing the 2nd commit for understanding
+
+Integration between jenkins and github
+
+Currently, I am using a public repository, so no credentialsare required. 
+
+In case of a private repo, credentials are mandatory
+
 We are doing testing of the poll scm concept.
 
-With this jenkins will do a checkout from GitHub automatically
+With this, Jenkins will do a checkout from GitHub automatically
 
 testJenkins.txt
