@@ -1,3 +1,14 @@
+pipeline jobs
+
+job1---job2----job3
+
+dependency jobs
+
+manual pipeline
+
+CI = Continuous Integration
+
+
 Doing the 2nd commit for understanding
 
 Integration between jenkins and github
